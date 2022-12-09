@@ -5,3 +5,5 @@ that does the following:
 • Provides a graphical user interface (GUI) to users by combining the use of Google Maps and HTML5 features by 
 managing the events and the z-index levels
 • Calculates the distance between two geographical locations.
+
+Changes to the project to be made soon
